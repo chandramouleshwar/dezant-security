@@ -1,3 +1,26 @@
-- Logo 225*49
-- Slider images 1920*502
-- Need clients list of size 405*311
+From meeting 17/05
+-----------------------
+- Our process font same.
+- Our process heading little small.
+- Our clients black affect and logo size.
+- font size of 2nd line should be smaller and 1st line with some other font.
+- about Us --> Our services header should be something like delta.
+- all headers should have capital.
+- introduction should be in caps.
+- our team banji content placement.- done
+- font for evil little darker
+- anthony to send note of clients logos
+- anthony to send emails/ contact numbers/ image in about us page - done
+- In technical training --> add CISP after CISM (contents to be shared by Anthony) - done
+- Locations add Lagos - done
+- conference --> remove Need image section - done
+- Seminar - seminar program outline Commensing soon - done
+- wherever dezant change it to Dezant Consulting - done
+- Our client in footer -> change it to our clients and partners - done
+- in Training - all pdf get it and change it to dezant consulting - done
+- In services add Cloud Security -> anthony to send content - done
+- In all page headers - try to have some stylish line like delta3
+
+questions:
+- inside conference and seminar, Need actual pdf for events conducted by DC
+-
