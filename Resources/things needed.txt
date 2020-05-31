@@ -29,17 +29,17 @@ questions:
 --------------------------
 - in our process, check the discovery size, 5 circle, 4th logo change.
 - Clients and Partners -> with 2 without scroll.
-- Line in small size like delta3
+- Line in small size like delta3 - done
 - only our service should have line, rest others shouldn't have in about us.-done
-- All headers should have sentence starts with capital
-- Technical Training, in table after CISM there should be CISP.
-- Conferences, Key Topics font size. Participants should be in center.
-- Seminars, Who should attend list should be left aligned.
-- Penetration testing, Benefits font size is bigger. Features and Benefits in one line.
-- Features and Benefits bold in services section.
-- Business Continuity plan - Data protection why left?
-- Governance - remove blue background.
-- Cloud Security - remove , after posture. bold -> What Cloud Security Brings to You, image center.
-- Our team, Rubens image size keep it same as others.
+- All headers should have sentence starts with capital-done
+- Technical Training, in table after CISM there should be CISP.-done
+- Conferences, Key Topics font size. Participants should be in center.-done
+- Seminars, Who should attend list should be left aligned.-done
+- Penetration testing, Benefits font size is bigger. Features and Benefits in one line.-done
+- Features and Benefits bold in services section.-done
+- Business Continuity plan - Data protection why left?-done
+- Governance - remove blue background.-done
+- Cloud Security - remove , after posture. bold -> What Cloud Security Brings to You, image center.-done
+- Our team, Rubens image size keep it same as others.-done
 - In Headers instead of blue background come up with some image.
-- In home, our process have line like delta3.
+- In home, our process have line like delta3.-done
