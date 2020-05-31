@@ -53,24 +53,6 @@
 		<header class="clearfix">
 			<!-- Static navbar -->
 			<div class="navbar navbar-default navbar-fixed-top">
-				<!-- <div class="top-line">
-					<div class="container">
-						<ul class="top-menu">
-							<li><a href="#"><i class="fa fa-arrow-circle-right"></i>terms &#38; condition</a></li>
-							<li><a href="#"><i class="fa fa-arrow-circle-right"></i>about us</a></li>
-							<li><a href="#"><i class="fa fa-arrow-circle-right"></i>log in</a></li>
-							<li><a href="#"><i class="fa fa-arrow-circle-right"></i>contact us</a></li>
-						</ul>
-						<ul class="social-icons">
-							<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
-							<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
-							<li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-							<li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li>
-						</ul>
-					</div>
-				</div> -->
 				<div class="container">
 					<div class="navbar-header">
 						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -136,35 +118,34 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6 triggerAnimation animated" data-animate="fadeInLeft">
-							<form id="contact-form">
-								<h1>Send us a Message</h1>
+							<form id="contact-form" method="POST" action="contact.php">
+								<h2 class="font-family-blackheaders">Send us a Message</h1>
 								<div class="text-fields">
 									<div class="float-input">
-										<input name="name" id="name" type="text" placeholder="Name">
+										<input name="name" id="name" type="text" placeholder="Name" required="true">
 										<span><i class="fa fa-user"></i></span>
 									</div>
 									<div class="float-input">
-										<input name="mail" id="mail" type="text" placeholder="E-mail">
+										<input name="mail" id="mail" type="text" placeholder="E-mail" required="true">
 										<span><i class="fa fa-envelope-o"></i></span>
 									</div>
 									<div class="float-input">
-										<input name="phone" id="phone" type="text" placeholder="Phone">
+										<input name="phone" id="phone" type="text" placeholder="Phone" required="true">
 										<span><i class="fa fa-phone"></i></span>
 									</div>
 								</div>
 
 								<div class="submit-area">
 									<textarea name="comment" id="comment" placeholder="Message"></textarea>
-									<input type="submit" id="submit_contact" class="main-button" value="Send Now">
-									<div id="msg" class="message"></div>
+									<button type="submit" id="submit" name="submit" class="btn btn-info btn-lg" style="width: 280px;">Submit</button>
 								</div>
 							</form>
 						</div>
 						<div class="col-md-6 triggerAnimation animated" data-animate="fadeInRight">
 							<div class="contact-info">
-								<h2>Address Needed?</h2>						
+								<h2 class="font-family-blackheaders">Address Needed?</h2>						
 							</div>
-							<ul class="contact-info-list">
+							<ul class="contact-info-list" style="color: #000000">
 								<li><i class="fa fa-phone"></i> +44 7448147604/ +44 7448147604</li>
 								<li><i class="fa fa-envelope"></i> <a  href="mailto:info@dezantconsulting.com">info@dezantconsulting.com</a></li>
 							</ul>

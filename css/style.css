@@ -3856,3 +3856,70 @@ ul.footer-social-icons li a:hover i {
     -webkit-transition: left 0.3s, top 0.3s;
     transition: left 0.3s, top 0.3s;
 }
+
+.font-family-sizep {
+    font-family: 'Poppins', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #626262;
+}
+.font-family-sizepall {
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: 'Poppins', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #000000;
+}
+.font-family-sizep {
+    font-family: 'Poppins', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #626262;
+}
+.font-family-sizepwhite {
+    font-size: 16px;
+    line-height: 25px;
+    font-family: 'Poppins', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+.font-family-sizeh3white {
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    font-family: 'Poppins', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+.font-family-sizeh3black {
+    font-size: 20px;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    font-family: 'Poppins', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #000000;
+}
+.font-family-blackheaders {
+    font-size: 20px;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    font-family: 'Poppins', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #000000;
+}
+.font-family-sizeh3black {
+    color: #000000;
+    font-size: 20px;
+    margin-bottom: 8px;
+    font-family: 'Poppins', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: skyblue;
+    text-transform: uppercase;
+}
+.font-family-sizeh4black {
+    color: #000000;
+    font-size: 18px;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    font-family: 'Poppins', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #626262;
+}

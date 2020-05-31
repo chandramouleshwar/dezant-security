@@ -1,14 +1,14 @@
 From meeting 17/05
 -----------------------
-- Our process font same.
-- Our process heading little small.
+- Our process font same.-done
+- Our process heading little small.-done 
 - Our clients black affect and logo size.
 - font size of 2nd line should be smaller and 1st line with some other font.
-- about Us --> Our services header should be something like delta.
-- all headers should have capital.
-- introduction should be in caps.
+- about Us --> Our services header should be something like delta.-done
+- all headers should have capital.-done
+- introduction should be in caps.-done
 - our team banji content placement.- done
-- font for evil little darker
+- font for evil little darker - done
 - anthony to send note of clients logos
 - anthony to send emails/ contact numbers/ image in about us page - done
 - In technical training --> add CISP after CISM (contents to be shared by Anthony) - done
@@ -19,8 +19,27 @@ From meeting 17/05
 - Our client in footer -> change it to our clients and partners - done
 - in Training - all pdf get it and change it to dezant consulting - done
 - In services add Cloud Security -> anthony to send content - done
-- In all page headers - try to have some stylish line like delta3
+- In all page headers - try to have some stylish line like delta3 - done
 
 questions:
-- inside conference and seminar, Need actual pdf for events conducted by DC
--
+- inside conference and seminar, Need actual pdf for events conducted by DCs
+
+
+30/05
+--------------------------
+- in our process, check the discovery size, 5 circle, 4th logo change.
+- Clients and Partners -> with 2 without scroll.
+- Line in small size like delta3
+- only our service should have line, rest others shouldn't have in about us.-done
+- All headers should have sentence starts with capital
+- Technical Training, in table after CISM there should be CISP.
+- Conferences, Key Topics font size. Participants should be in center.
+- Seminars, Who should attend list should be left aligned.
+- Penetration testing, Benefits font size is bigger. Features and Benefits in one line.
+- Features and Benefits bold in services section.
+- Business Continuity plan - Data protection why left?
+- Governance - remove blue background.
+- Cloud Security - remove , after posture. bold -> What Cloud Security Brings to You, image center.
+- Our team, Rubens image size keep it same as others.
+- In Headers instead of blue background come up with some image.
+- In home, our process have line like delta3.
