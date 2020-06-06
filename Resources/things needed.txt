@@ -27,7 +27,7 @@ questions:
 
 30/05
 --------------------------
-- in our process, check the discovery size, 5 circle, 4th logo change.
+- in our process, check the discovery size, 5 circle, 4th logo change.-done
 - Clients and Partners -> with 2 without scroll.
 - Line in small size like delta3 - done
 - only our service should have line, rest others shouldn't have in about us.-done
