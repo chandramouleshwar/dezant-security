@@ -3923,3 +3923,16 @@ ul.footer-social-icons li a:hover i {
     font-weight: 400;
     color: #626262;
 }
+
+.btn-primary-outline {
+    background-color: transparent;
+    border-color: transparent;
+    box-shadow: none;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.header-bg-text-color {
+    color: #00aff0;
+}

@@ -43,3 +43,20 @@ questions:
 - Our team, Rubens image size keep it same as others.-done
 - In Headers instead of blue background come up with some image.
 - In home, our process have line like delta3.-done
+
+06/06
+-----------------------------
+- color change and backgound color should be #00aff0 including line design
+- remove subtitle from all pages
+- in about us -> security gap asset left and image right, next follows zig-zag approach
+- security gap assetstment image should be changed.
+- Data security and governance, move text from For Example.
+- Conferences -> remove participants at our
+- remove download agenda
+- cyber security advisory service in page header, you'll benefit section should be same as feature. change letters as well
+- security sme red color text should fit middle as per right image.
+- system audit risk text centered as per image
+- IT transformation heading consistent as per menu, also bring below image little up to align as per content
+- our team left aligned and anthony image same size as others. name border align with image
+- contact numbers should be different, copy it from document.
+- all header background image as constant

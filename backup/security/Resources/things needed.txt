@@ -1,3 +1,0 @@
-- Logo 225*49
-- Slider images 1920*502
-- Need clients list of size 405*311
