@@ -1226,7 +1226,7 @@ button {
 
 .tempcore-line {
     padding: 40px 0;
-    background: skyblue;
+    background: #00aff0;
     position: relative;
 }
 
@@ -1352,7 +1352,7 @@ button {
 
 .page-banner {
     padding: 80px 0;
-    background: skyblue;
+    background-image: url('banner.gif');
     overflow: hidden;
     text-align: center;
 }
@@ -1387,6 +1387,7 @@ ul.page-tree {
     background: rgba(0,0,0,0.5);
     padding: 10px 15px;
     border-radius: 10px;
+    border: 1px solid #ffffff;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     -o-border-radius: 10px;
@@ -1542,7 +1543,7 @@ ul.pagination-list li a:hover {
 /*-------------------------------------------------*/
 
 .page-banner.blog-banner {
-    background-color: skyblue;
+    background-image: url('banner.gif');
 }
 
 .blog-post {
@@ -3613,7 +3614,7 @@ ul.pricing-table li a:hover {
 .footer-widgets:hover h4 {
     color: #fff;
     border: 1px solid #54babb;
-    background: #54babb;
+    background: #00aff0;
 }
 
 .posts-widget-list li {

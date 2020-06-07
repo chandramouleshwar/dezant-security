@@ -1,62 +1,23 @@
-From meeting 17/05
------------------------
-- Our process font same.-done
-- Our process heading little small.-done 
-- Our clients black affect and logo size.
-- font size of 2nd line should be smaller and 1st line with some other font.
-- about Us --> Our services header should be something like delta.-done
-- all headers should have capital.-done
-- introduction should be in caps.-done
-- our team banji content placement.- done
-- font for evil little darker - done
-- anthony to send note of clients logos
-- anthony to send emails/ contact numbers/ image in about us page - done
-- In technical training --> add CISP after CISM (contents to be shared by Anthony) - done
-- Locations add Lagos - done
-- conference --> remove Need image section - done
-- Seminar - seminar program outline Commensing soon - done
-- wherever dezant change it to Dezant Consulting - done
-- Our client in footer -> change it to our clients and partners - done
-- in Training - all pdf get it and change it to dezant consulting - done
-- In services add Cloud Security -> anthony to send content - done
-- In all page headers - try to have some stylish line like delta3 - done
-
-questions:
-- inside conference and seminar, Need actual pdf for events conducted by DCs
-
-
-30/05
---------------------------
-- in our process, check the discovery size, 5 circle, 4th logo change.-done
-- Clients and Partners -> with 2 without scroll.
-- Line in small size like delta3 - done
-- only our service should have line, rest others shouldn't have in about us.-done
-- All headers should have sentence starts with capital-done
-- Technical Training, in table after CISM there should be CISP.-done
-- Conferences, Key Topics font size. Participants should be in center.-done
-- Seminars, Who should attend list should be left aligned.-done
-- Penetration testing, Benefits font size is bigger. Features and Benefits in one line.-done
-- Features and Benefits bold in services section.-done
-- Business Continuity plan - Data protection why left?-done
-- Governance - remove blue background.-done
-- Cloud Security - remove , after posture. bold -> What Cloud Security Brings to You, image center.-done
-- Our team, Rubens image size keep it same as others.-done
-- In Headers instead of blue background come up with some image.
-- In home, our process have line like delta3.-done
-
 06/06
 -----------------------------
-- color change and backgound color should be #00aff0 including line design
-- remove subtitle from all pages
-- in about us -> security gap asset left and image right, next follows zig-zag approach
-- security gap assetstment image should be changed.
-- Data security and governance, move text from For Example.
-- Conferences -> remove participants at our
-- remove download agenda
-- cyber security advisory service in page header, you'll benefit section should be same as feature. change letters as well
-- security sme red color text should fit middle as per right image.
-- system audit risk text centered as per image
-- IT transformation heading consistent as per menu, also bring below image little up to align as per content
-- our team left aligned and anthony image same size as others. name border align with image
-- contact numbers should be different, copy it from document.
-- all header background image as constant
+- color change and backgound color should be #00aff0 including line design - done
+- remove subtitle from all pages - done
+- in about us -> security gap asset left and image right, next follows zig-zag approach-done
+- security gap assetstment image should be changed.-done
+- Data security and governance, move text from For Example.-done
+- Conferences -> remove participants at our - done
+- remove download agenda - done
+- cyber security advisory service in page header, you'll benefit section should be same as feature. change letters as well - done
+- security sme red color text should fit middle as per right image.-done
+- system audit risk text centered as per image - done
+- IT transformation heading consistent as per menu, also bring below image little up to align as per content -done
+- our team left aligned and anthony image same size as others. name border align with image - done but text isnt aligned properly and looking good with existing approach
+- contact numbers should be different, copy it from document.-done
+- all header background image as constant-done
+
+07/06
+---------------
+- system audit risk, IT transformation, image left
+- ask us image preperation
+
+"Without independent testing, it’s impossible to know, where your company’s vulnerabilities are.Don’t let your SME be vulnerable to cyber-attacks"
