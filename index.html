@@ -233,11 +233,10 @@
 			</div>
 		</div>
 		<!-- End slider -->
-<button class="btn btn-info" style="position: fixed;
+<button class="btn btn-default" style="position: fixed;
   bottom: 0;
   right: 0;
-  width: 100px;
-  border: 3px solid #000000; background: #00aff0; font-weight: bold"  data-toggle="modal" data-target="#myModal"><i class="fa fa-user"></i>  Ask Us</button>
+  width: 100px; border:1px solid #00aff0; font-weight: bold"  data-toggle="modal" data-target="#myModal"><img src="images/ask-us.png" style="width: 50px"></button>
   <!-- Modal -->
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
@@ -247,19 +246,19 @@
         <h4 class="modal-title" id="myModalLabel">Ask Your Queries</h4>
       </div>
       <div class="modal-body">
-        <form>
+        <form method="POST" action="ask-us.php">
 		  <div class="form-group">
 		    <label for="exampleInputEmail1">Email address</label>
-		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email" required="true">
+		    <input type="email" class="form-control" id="email" name="email" placeholder="Email" required="true">
 		  </div>
 		  <div class="form-group">
 		    <label for="exampleInputPassword1">Contact Number</label>
-		    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Contact Number" required="true">
+		    <input type="text" class="form-control" id="phone" name="phone" placeholder="Contact Number" required="true">
 		  </div>
 		  <div class="form-group">
 		    <label for="exampleInputPassword3">Service</label>
 		    <label class="radio-inline">
-			  <input type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1"> Cyber Security Advisory Service
+			  <input type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" autofocus="true"> Cyber Security Advisory Service
 			</label>
 			<label class="radio-inline">
 			  <input type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2"> Security for SME
