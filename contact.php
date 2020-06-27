@@ -7,7 +7,7 @@ if(isset($_POST['submit'])) {
 	$headers = "From: ". $mail;
 	$txt = "Name : ".$name."<br>Email : ".$mail."<br>Phone : ".$phone."<br>Message : ".$mes;
 	echo $txt;
-	if(mail("chandra.shalwi@gmail.com", "Contact Form - Request",$txt)) {
+	if(mail("chandra.shalwi@gmail.com,info@dezantconsulting.com", "Contact Form - Request",$txt)) {
 		echo "success";
 		header('Location: contact-thank-you.html');
 		exit();

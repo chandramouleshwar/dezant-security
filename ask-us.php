@@ -1,13 +1,12 @@
 <?php
 if(isset($_POST['submit'])) {
-	$name = $_POST['name'];
-	$mail = $_POST['mail'];
+	$mail = $_POST['email'];
 	$phone= $_POST['phone'];
-	$mes  = $_POST['comment'];
+	$service  = $_POST['inlineRadioOptions'];
 	$headers = "From: ". $mail;
-	$txt = "Name : ".$name."<br>Email : ".$mail."<br>Phone : ".$phone."<br>Message : ".$mes;
+	$txt = "Email : ".$mail."<br>Phone : ".$phone."<br>Service : ".$service;
 	echo $txt;
-	if(mail("chandra.shalwi@gmail.com", "Contact Form - Request",$txt)) {
+	if(mail("chandra.shalwi@gmail.com,info@dezantconsulting.com", "Ask Us Form - Request",$txt)) {
 		echo "success";
 		header('Location: contact-thank-you.html');
 		exit();
